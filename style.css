@@ -1,0 +1,9 @@
+.one{
+    font-style: oblique;
+    border-style: groove;
+}
+.five{
+    font-style: initial;
+    border-style: dotted;
+    border-color: red;
+}
